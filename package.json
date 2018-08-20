@@ -1,0 +1,28 @@
+{
+  "name": "e-certs-track-remind",
+  "version": "1.0.0",
+  "description": "Keeps track of Pima Countys emissions inspectors",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0",
+    "mysql": "^2.16.0",
+    "mysql2": "^1.6.1",
+    "sequelize": "^4.38.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ddmartin3/e-certs-track-remind.git"
+  },
+  "author": "Darwood Martin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ddmartin3/e-certs-track-remind/issues"
+  },
+  "homepage": "https://github.com/ddmartin3/e-certs-track-remind#readme"
+}
